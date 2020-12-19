@@ -318,7 +318,7 @@ http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6130/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_10_hd.png" group-title="BeinSport",BeinSport10
 http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6131/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_11_hd.png" group-title="BeinSport",BeinSport11
-https://rebrand.ly/beinsports-11/576sd_m3u8
+http://190.2.133.58:8080/TV4011@576?auto=1?auto=1?AuthInfo=9be5f738f20b4da47df56b90dab6a4be1f663ea89c302e2406765e022164924fcac19620e7dea7f98df7cb1b23a1bc52710ad36278bef71f7d0af4908933bfae5b62657dce0354d0e72e35e5cc8cdb50f3e16a523001cb79b9d63ccf5a2e63e6
 #EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_11.png" group-title="BeinSport",BeinSport11
 http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6132/index.m3u8
 
