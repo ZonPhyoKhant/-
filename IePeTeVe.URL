@@ -287,8 +287,10 @@ http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/531/index.m3u8
 http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/107/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="Live Stream",ZML EPL LIVE1 1080P
-https://sg.yangonsport.com/stream/dm6ExKCm7stAfPoX9JMt.m3u8
+https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com/out/v1/1a15399bdb804446bf08f8b8ad0ba3a5/index3_1.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="Live Stream",ZML EPL LIVE1  720P 
+https://cdn1.dailysport.website/e1/1.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="Live Stream",ZML EPL LIVE2  720P 
 https://video.fmdl2-1.fna.fbcdn.net/hvideo-frc-atn/_nc_ohc-GwdUPFoSbYMAX-hYIQr/_nc_cat-101/v/rjD97EAx3aX5Zh5XI7rV6/live-dash/dash-abr5/178928583980070.mpd?_nc_rl=AfBebhSTy_Y6hnEUGNo&ms=m_CNP&oh=af0ee753ed65e3c5be4db718fb2093b4&oe=5FE0F7C3
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="Live Stream",ZML EPL LIVE1  360P
 https://sg.yangonsport.com/stream/dm6ExKCm7stAfPoX9JMt.m3u8
