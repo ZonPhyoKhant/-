@@ -106,9 +106,9 @@ https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fPTlcNPVQtU/maxresdefault.jpg" group-title="Sports",StarSports Select 1HD
-
+http://103.103.43.5:9000/play/a0e7/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/b0ITbckAy0I/maxresdefault.jpg" group-title="Sports",StarSports Select 2HD
-
+http://103.103.43.5:9000/play/a0i3/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="Sports",Sony Ten 1HD
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="Sports",Sony Ten 2HD
@@ -124,11 +124,11 @@ https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="Sports",ASTRO SUPERSPORTS 1
-http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="Sports",ASTRO SUPERSPORTS 2
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="Sports",ASTRO SUPERSPORTS 3 
-http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="Sports",ASTRO SUPERSPORTS 4 
 
 
@@ -397,29 +397,3 @@ http://rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist.m
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/radio/cc/contact_radio_fr.png" group-title="MUSIC",CONTACT
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://channelmyanmar.org/wp-content/uploads/2020/08/upside.jpg" group-title="MM SUB MOVIE",Upside-Down Magic(2020)
-http://d2.usersdrive.com:182/d/z2jyplyh2as5ln23zhj6lgdhm2ruarzz6n2m6fmsq42eg4ytvfj2bit6kjsyloh4pt2tvrns/Upside-Down.Magic.2020.720p%20(CM).mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/ih3ZHVQMV59fSOxLYpSQuCKC3I2.jpg" group-title="MM SUB MOVIE",Spare Parts (2020)
-https://www.mediafire.com/file/g5vev4uco760nen/%2528Alpha%2529_Spare_Parts_%25282020%2529_1080p.mp4
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Emti8-bUwAAXe68.jpg" group-title="MM SUB MOVIE",Vanguard (2020)
-http://www.mediafire.com/file/psu3ak6gliuna4e/%28Alpha%29_Vanguard_%282020%29.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fEni1kQdsQ0/maxresdefault.jpg" group-title="MM SUB MOVIE",Monstar Of Man(2020)
-http://www.mediafire.com/file/z8e52qgz8ci4o6s/%2528Alpha%2529_Monsters_of_Man_%25282020%2529_1080p.mp4
-#EXTINF:-1 tvg-logo="https://cinema.msubmovie.com/wp-content/uploads/2020/11/Greenland-2020-scaled.jpg" group-title="MM SUB MOVIE",Greenland (2020)
-https://server.mfile.cloud/msubmovie/2020.11/Greenland.2020.1080P.Amzn.Web-Dl%28msubmovie%29%28sd%29.mp4
-#EXTINF:-1 tvg-logo="https://cinema.msubmovie.com/wp-content/uploads/2020/10/2067-2020.jpg" group-title="MM SUB MOVIE",2067 (2020)
-http://www.mediafire.com/file/2abqayfs3o3u92q/%2528Alpha%2529_2067_%25282020%2529.mp4
-#EXTINF:-1 tvg-logo="https://cinema.msubmovie.com/wp-content/uploads/2020/09/Enola-Holmes.jpg" group-title="MM SUB MOVIE",Enola Holmes (2020)
-https://server.mfile.cloud/msubmovie/2020.9/Enola.Holmes.2020.1080P.Nf.Web-Dl%28msubmovie%29%28sd%29.mp4
-#EXTINF:-1 tvg-logo="https://cinema.msubmovie.com/wp-content/uploads/2020/11/The-New-Mutants.jpg" group-title="MM SUB MOVIE",The New Mutants (2020)
-https://server.mfile.cloud/msubmovie/2020.11/The%20New%20Mutants.2020.1080P.Bluray%28msubmovie%29%28sd%29.mp4
-#EXTINF:-1 tvg-logo="https://cinema.msubmovie.com/wp-content/uploads/2020/07/Ghosts-of-War.jpg" group-title="MM SUB MOVIE",Ghosts of War (2020)
-https://server.mfile.cloud/msubmovie/2020.10/Ghost.Of.War.2020.1080P.Bluray%28msubmovie%29%28sd%29.mp4
-#EXTINF:-1 tvg-logo="https://cinema.msubmovie.com/wp-content/uploads/2020/10/Vampires-vs.-the-Bronx.jpg" group-title="MM SUB MOVIE",Vampires vs the Bronx (2020)
-http://www.mediafire.com/file/am8tvs1n584z0hx/%2528Alpha%2529_Vampires_vs_The_Bronx_%25282020%2529.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/k68nPLbIST6NP96JmTxmZijEvCA.jpg" group-title="MM SUB MOVIE",Tenet (2020)
-https://od.lk/d/ODZfNDQwNjkxNTJf/Tenet%20%282020%29%20HDRip%20480p.mp4
-#EXTINF:-1 tvg-logo="" group-title="MM SUB MOVIE",
-
-#EXTINF:-1 tvg-logo="" group-title="MM SUB MOVIE",
