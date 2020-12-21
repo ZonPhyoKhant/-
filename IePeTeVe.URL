@@ -93,6 +93,8 @@ https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa3
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbcsn-us.png" group-title="Sports",NBCSN HD
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/333abf6d4b2281e.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/diema_sport_bg_2_hd.png" group-title="Sports",DIEMA SPORT2
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/be9c8137ced43e2.m3u8
 #EXTINF:-1 tvg-logo="https://www.digitalsky.com.kh/uploads/videos/OneTV-Sports-11_logo_04_06_2018_10.jpg" group-title="Sports",ONETV SPORT11
 http://36.37.252.114:888/Apple/OneTV-055/playlist.m3u8
 
@@ -187,9 +189,9 @@ https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 
 #EXTINF: -1 tvg-name="Champion TV 1" tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="VIP Sports",UCL TV1
-https://zalogi.xyz/exo/playlist/champion1-mkctvMalingPlaylist.m3u8
+https://vcdnjt.useetv.com/dass/15/champion1/chunklist_w2141102661_b894100_sleng_57560.m3u8
 #EXTINF: -1 tvg-name="Champion TV 2" tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="VIP Sports",UCL TV2 
-https://zalogi.xyz/exo/playlist/champion2-mkctvMalingPlaylist.m3u8
+https://vcdnjt.useetv.com/dass/15/champion2/chunklist_w670832473_b894100_sleng_4798.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="VIP Sports",Premier League1 SD
 https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8
@@ -233,9 +235,9 @@ https://doofootball.livestream-cdn.com/iptv/uk-premiersports.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-de.png" group-title="VIP Sports",SKYSPORT 1
-
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/cd7e6c7aa1547c0.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-de.png" group-title="VIP Sports",SKYSPORT 2
-
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/f74da5ab69db0c1.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="VIP Sports",Eleven Sport1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" group-title="VIP Sports",Eleven Sport2
@@ -320,9 +322,9 @@ http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6130/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_10_hd.png" group-title="BeinSport",BeinSport10
 http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6131/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_11_hd.png" group-title="BeinSport",BeinSport11
-http://190.2.133.58:8080/TV4011@576?auto=1?auto=1?AuthInfo=9be5f738f20b4da47df56b90dab6a4be1f663ea89c302e2406765e022164924fcac19620e7dea7f98df7cb1b23a1bc52710ad36278bef71f7d0af4908933bfae5b62657dce0354d0e72e35e5cc8cdb50f3e16a523001cb79b9d63ccf5a2e63e6
-#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_11.png" group-title="BeinSport",BeinSport11
 http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6132/index.m3u8
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_11.png" group-title="BeinSport",BeinSport11
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_12_hd.png" group-title="BeinSport",BeinSport12
 http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6133/index.m3u8
