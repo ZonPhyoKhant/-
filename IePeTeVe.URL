@@ -42,13 +42,6 @@ http://220.158.149.28:8180/live/TV00000000000000000169@HHZT
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mvm-th-mm.png" group-title="Myanmar TV",MVTV MYANMAR
 https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_myanmar_art.png" group-title="Movies",SKYNET Myanmar Art
-http://190.2.133.58:8080/TV0631?AuthInfo=b0c6ade9f11cf519cefa529d918efde6f7d6e7ce92fc7d2506765e022164924fcac19620e7dea7f98df7cb1b23a1bc52710ad36278bef71f7d0af4908933bfae1665dfc4f360b1308433fe93c781fa69f3e16a523001cb79b9d63ccf5a2e63e6
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_myanmar_movies.png" group-title="Movies",SKYNET Myanmar Movie
-http://190.2.133.58:8080/TV0632?AuthInfo=b0c6ade9f11cf519cefa529d918efde6f7d6e7ce92fc7d2506765e022164924fcac19620e7dea7f98df7cb1b23a1bc52710ad36278bef71f7d0af4908933bfae1665dfc4f360b1308433fe93c781fa69f3e16a523001cb79b9d63ccf5a2e63e6
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_asian_movies.png" group-title="Movies",SKYNET Asia Movie
-http://91.232.105.190:80/TV0633?AuthInfo=b0c6ade9f11cf519cefa529d918efde6f7d6e7ce92fc7d2506765e022164924fcac19620e7dea7f98df7cb1b23a1bc52710ad36278bef71f7d0af4908933bfae1665dfc4f360b1308433fe93c781fa69f3e16a523001cb79b9d63ccf5a2e63e6
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_asia.png" group-title="Movies",CINEMAX Myanmar
 http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_action.png",Fox Action
