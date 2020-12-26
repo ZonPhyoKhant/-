@@ -288,12 +288,14 @@ http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/531/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_planeta.png" group-title="VIP Sports",Match! Country
 http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/107/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png" group-title="Live Stream",SkyNet Sport6
+https://media.publit.io/file/h_480/Premier-League-Intro-2007_2008-HD.mp4
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="Live Stream",ZML EPL LIVE1 1080P
 https://media.publit.io/file/h_480/Premier-League-Intro-2007_2008-HD.mp4
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="Live Stream",ZML EPL LIVE1  720P 
 https://media.publit.io/file/h_480/Premier-League-Intro-2007_2008-HD.mp4
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="Live Stream",ZML EPL LIVE1  360P
-https://video-weaver.hkg01.hls.ttvnw.net/v1/playlist/CrEFBUGJq8LaNi8h55ibOUFfwLkpT04JHL3kgOfz8Baoh1hADFtVb2F0goqQE5xgyjhJ4qJuZgC8hlcxE9j-QC5xQhc2lsOrqePsYqeEKDdimwtnEyMGUu_l1dllmrKjR29KRm7ss6jFQ1Et0BH2N6M_IDzw79I6qlXleoZEDY1lULhx3y7ml2HFsvcxJ-ZDmxD-IJeB4m1D1eHXzlus_EIY4Oc7-sgw-SJVBp1c9zp1FPgj-wZkOCplFCxz3l1Myo5bI8aL3Y3JY7R4TKIfi5srusx1gyVvnKKMNM17j6qySc-HNHotakDne4PXDqhda3AwyCs85-k1oY89jgB9vYvPePOUXWF3DPZlpbfT3pdATP9gJpGKdts4nP_dnoTqhvWpzY7J-CkP7I4faVg0lPkYDaccpAudEsK5WNej1n4yoMg0BPOwsxRDZXP4VsIg59859PuCsuopDpsK6eyDSA2AUSulOPMN0Lhoy6nAOeA4wTNUzchrH4TpZpCVkIyUMo78wyTV6vxZYCQsVHVfkm5c1hgUI0UIAGeZMGkvH4uVSEqaLDTGUNdIICOxNkEjpBpIbRFcl6Cp7vmYSIyHuzVBfAKMCKy9ZBwUol7pzlb4YnM4QCQXycsQgqQUjBbdE0PQUyMFH-SDPgPsN_H5g5HuGUbSz2q_zdPb04x60Fhl_cbwisddsAniwa3sdpaaWw1GAn6ShnDe-oJ6gQXJK7jsji6tAEVR1fyVQZcwO85vXwqp-4sVaAqAuk61XLcuU1z1RHAo8WhO5dt3z3tEJQ2v37dL1gzxrhsuN7GgyNH4iqKNsLnKbrFYdCqMCacdy1L-fn4HJShXl2sdmrvuMKdSp_FvxGbleKnC65Seh4-D6ijjv1bAsZWPXh45_3QOsbIfm5FqKT7711yvG-T8x3shlKUSEBGxzC6ZlCzQLNYoL7uN5aMaDIHTsEUJGGlDWoL7iQ.m3u8
+https://media.publit.io/file/h_480/Premier-League-Intro-2007_2008-HD.mp4
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/la_liga_es.png" group-title="Live Stream",ZML Laliga Live1
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
