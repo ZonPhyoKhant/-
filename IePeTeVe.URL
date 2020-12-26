@@ -289,7 +289,7 @@ http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/531/index.m3u8
 http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/107/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png" group-title="Live Stream",SkyNet Sport6
-https://media.publit.io/file/h_480/Premier-League-Intro-2007_2008-HD.mp4
+http://thaicable.myftp.org:8000/live/infosat/2020/2.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="Live Stream",ZML EPL LIVE1 1080P
 https://media.publit.io/file/h_480/Premier-League-Intro-2007_2008-HD.mp4
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="Live Stream",ZML EPL LIVE1  720P 
