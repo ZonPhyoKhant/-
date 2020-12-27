@@ -291,7 +291,8 @@ http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/531/index.m3u8
 http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/107/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png" group-title="Live Stream",SkyNet Sport6
-https://media.publit.io/file/h_480/Premier-League-Intro-2007_2008-HD.mp4
+https://video-weaver.hkg01.hls.ttvnw.net/v1/playlist/CrIF5ALP7BReb0ZVEanLkaL8H3-Ah3qPkyAKJGBGV476Ubsv9ARXnVZz6FJfset0PHgv-w5MGmOESaA5Z6p4wWgHjfM0ULN2dElORIVefBZoVX4jWAdIUGqeziVwRc6deOyzW7m32dhSaQq_9qEeFr9Q2RAky8r1EMXxiAHmqLbM_Y3ll-C2qh0feoGhUDqKZV0Tv2vnFgffqHVQ_s8WqAt2ydJu3ef8j_lYjrLY0IZILEHbAIKNkaRnXdbSHip-47AJdC-iLOVqSgEcMi6iZW6ybdOKgT-hQxJhnUwONfdgeh_yVMzIap8kDjQLIdZiod1s79ZyVNBlmdELjfVgObC68WsTLlTVUJSI0yBaOlZi1rXe9ZVpm5IMHy_YHyXjTaqF08VoQlsZbn7nPXU0V80v_HCOUJ0kpbyagK-pvzeiiLIK2rc-_rCz26hukwt6vNvfsRVhkkZbEZcfKPiqbfH_vNJsyvgF95mbpV67Rc7bpapGYo6XrKMkBnZnpmgZYN2FgWatirnr4UURKyGgKsJ7Vx-MF53V4B5FdAMsna8xzngaXitu0kBTiSz6QQ1hgEuw_M6W61Smx-wSSWslwCEN57CXtMEhxfQ4TzmtSnSRQy9dVgS-m20UsnD5FqIavGw1qV5LqND6IqNBPI2d_lSBgvZqZXPIX19mPcqitk36-NfHLU6rHA4yrv2_O35OcDll5ub6DVyN790ttVvaelxcv1rRdbUJzocXVf3ShT5z2DD-L-i9jWEqtYRf_ICCreB1Vh_CT-2d9zBxnNQJu_Nrrvl9Lf0xIA0cESDKvXoVGAVS_itDo3PC2OZbvGJ1RZCkA5SYHbbttfVNzLKSG_S3K8F8WNOecpxOLnjvOPYm3PJvZNt-QIhs6oGzLhHDyBbvcsUTyGQLyTkYZAYs88v6qaSOEhAEC_nbZ9X-vK-wTir0tlDEGgwkOGWzulxlNkX6QPo.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="Live Stream",ZML EPL LIVE1 1080P
 https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com/out/v1/ed125874bda74b149f21b4ed444d4f41/index1_1.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="Live Stream",ZML EPL LIVE1  720P 
