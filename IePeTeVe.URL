@@ -291,7 +291,18 @@ http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/531/index.m3u8
 http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/107/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png" group-title="Live Stream",SkyNet Sport6
-https://video-weaver.sin01.hls.ttvnw.net/v1/playlist/CrIFSvtjh8Be7aS5RyHCqehuOhko4wkw4jXhBtokvMiUmR99MK6P_qTwlroOR1BSCJWsHiYKhsNFxTXkBdQd_gyy2Yv0MbCt8ux9I9pv2Doxs9qryxPxpBqm5K8ySKulJp8AH1H06XgUrYRSn9ddd8cljHfZJudMulXifcWtg7_EXltssOZWl35tEn5ucMS-md4uQYUlmDwjrjt2XeQlIiG8Apo3pZh2UL0frng9cKCAoXLMfvDKbM0wpDcWOSrB0hegFpiMXkga4zP7KiK9uOYBzQM6S-z1fqg-3HclGU0M5tlCDcK9nyNh6gDUtXjLhNGJHqOn3a-hRYqqFce_0mFhOvYJAb625jmKNFDjsN6-K5HGjB246k7_nUsZON4gUsUNFk9OuEZQuktUZiDLOYB2XARE39UKz_pB6TFOat0W_g9aQNgMBVNmGXWBkKurJKbKZv5UpSdiIoAVuhQcUq0wTELuyxJudTyyfPXFmO2tDa74jJg4XwJ6DbO-vJkU0b-paMps1VDS2JT4SppzOFOBZ1GReda762zHnIIBSBYgHJDLpk5LtAfgs0c_wnY9uVl-302EoqE0jMrsmQdIGSHPkSKEIK5qKLdqoWGhMD5AhiIy7ZXUWZxC924Rq0yKKKa6lHcRg5buK7fBolPlW56m8lEm0fBMoIq4LJkv8XEMjyZ2DWK7bCTFgqzVX0z9kon93LlZQomVibVyWSMTRFVc20bE8ukoRj8yw_1UZ5IORQeoVF3y9uabxhemKQXFeq1hvNrWv1CFIs-8NCQydCL2OC6QjnX1CFHkq2QqrhHF5scOIbc4Q0hJbuG_OLhg16CmH7cWYk9qqPeiuQ49ghS_S-FSstN08Y-vTxtg4-tjYaSiKOijzyMgr-BdKlwWLxD-OzMdceBhPNXtPRySkoDff-dnEhCG62ijVK1w_3hJkz5bID2LGgzH-cLHlDcfhRN1Lkc.m3u8
+<!-- Add a placeholder for the Twitch embed -->
+<div id="twitch-embed"></div>
+
+<!-- Load the Twitch embed script -->
+<script src="https://player.twitch.tv/js/embed/v1.js"></script>
+
+<!-- Create a Twitch.Player object. This will render within the placeholder div -->
+<script type="text/javascript">
+  new Twitch.Player("twitch-embed", {
+    channel: "mgzinmin2020"
+  });
+</script>
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="Live Stream",ZML EPL LIVE1 1080P
 https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com/out/v1/ed125874bda74b149f21b4ed444d4f41/index1_1.m3u8
