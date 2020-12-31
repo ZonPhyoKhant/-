@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nCGan4BNW0o/maxresdefault.jpg" group-title="Myanmar TV",Happy New Years
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nCGan4BNW0o/maxresdefault.jpg" group-title="Myanmar TV",Happy New Years Ch1
 https://video.fmdl2-2.fna.fbcdn.net/hvideo-cln-odn/_nc_ohc-XMcB9yZK_9QAX_ZNQ-l/_nc_cat-110/v/rWN9hTyUx0YCei3epQcMe/live-dash/dash-abr5/5477814332243926.mpd?_nc_eui2=AeGWNNm4_R9rClLnNZkrJiWoyuiq3h62XQDK6KreHrZdAM_fanG9s0L4BoCFUJYeL3zzgpky-rhtPkp9QBugs_VE&_nc_rl=AfBWLUW88cN47IHg0Dk&ms=m_CN&oh=af6a555d03ae0860569ec8243aeb8ac4&oe=5FEF623B
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nCGan4BNW0o/maxresdefault.jpg" group-title="Myanmar TV",Happy New Years Ch2
+https://video.fmdl2-2.fna.fbcdn.net/hvideo-lla-cln/_nc_ohc-kxkGAZSSBkMAX9kyl-8/_nc_cat-110/v/rOTvT3oJ0SiWLTg4frbuw/live-dash/dash-abr5/1078783852533535.mpd?_nc_eui2=AeGN6O2flNpHQC2qNYaSPkXF9XBoBPWPCJf1cGgE9Y8IlzcGOTuq_2-O8B_ZjV6gtcWdw1UGp1CxdfcEgouAta76&_nc_rl=AfAdOiVkXABTRZNbks8&ms=m_CN&oh=78cde0ee9c18c22f7f776732da8f8889&oe=5FEF85B1
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar_bawdi_tv_mm.png" group-title="Myanmar TV",Mahar Bhawdi
 https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv_mm_4.png" group-title="Myanmar TV",MRTV-4
