@@ -291,7 +291,7 @@ http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/531/index.m3u8
 http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/107/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png" group-title="Live Stream",SkyNet Sport6
-https://e4.stephn.xyz/ingest013/69926.m3u8?sf=NzlVbW5GbEU1RQ==&token=6yn7dfF1vfRDXacKWpUoXg&expires=1609529298&rnd=
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="Live Stream",ZML EPL LIVE1 1080P
 https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com/out/v1/ed125874bda74b149f21b4ed444d4f41/index1_1.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="Live Stream",ZML EPL LIVE1  720P 
