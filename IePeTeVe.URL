@@ -13,6 +13,10 @@ https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
 http://live-aec.sky-cdn.com/aec_live/Fortune.stream_360p/chunklist_w1408103827.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mizzima-tv-mm.png" group-title="Myanmar TV",Mizzima TV
 https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/num/5-plus-mm.png" group-title="Myanmar TV",5 Plus
+http://cdn-edge.otv.co.th/mmplay/5plus/chunklist_w1777296546.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAyMCA0OjU3OjEzIEFNJmhhc2hfdmFsdWU9ckdvUno1eTlDZ0k2czB3Z1VBdEgrdz09JnZhbGlkbWludXRlcz0yNSZzdHJtX2xlbj0xMg%3D%3D
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv_mm_entertainment.png" group-title="Myanmar TV",Channel Me
+http://cdn-edge.otv.co.th/mmplay/mrtv-entertainment/chunklist_w1437503706.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAyMCA0OjU3OjUyIEFNJmhhc2hfdmFsdWU9bWg2Q0QzV1UxRkZSUHUwZ0kyWC84UT09JnZhbGlkbWludXRlcz0yNSZzdHJtX2xlbj0yNQ%3D%3D
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/democratic_voice_of_burma.png" group-title="Myanmar TV",DVB
 https://l1-xl1.myanmarnet.com/relay/dvb/ch1/stream_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mwd_movies.png" group-title="Myanmar TV",MWD Movie
@@ -265,7 +269,7 @@ http://185.47.188.226/live/tring_sport1/playlist.m3u8
 http://185.47.188.226/live/tring_sport2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport1_ro.png" group-title="VIP Sports",DIGI SPORT1
-
+http://tv.protvmm.live:5080/LiveApp/streams/325007722519183089313921.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport2_ro.png" group-title="VIP Sports",DIGI SPORT2
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport3_ro.png" group-title="VIP Sports",DIGI SPORT3
