@@ -96,9 +96,12 @@ https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa3
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbcsn-us.png" group-title="Sports",NBCSN HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/333abf6d4b2281e.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/diema_sport_bg_2_hd.png" group-title="Sports",DIEMA SPORT2
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/be9c8137ced43e2.m3u8
+#EXTINF:-1 tvg-logo="http://ifavorite.ru/images/sport7/-5.jpg" group-title="Sports",Belarus 5
+http://spacetv.in/stream/DIPK8H19CP8/33.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta-sports-ukraine-ie-ua.png" group-title="Sports",Setanta Sports HD
+http://spacetv.in/stream/DIPK8H19CP8/313.m3u8
 #EXTINF:-1 tvg-logo="https://www.digitalsky.com.kh/uploads/videos/OneTV-Sports-11_logo_04_06_2018_10.jpg" group-title="Sports",ONETV SPORT11
 http://36.37.252.114:888/Apple/OneTV-055/playlist.m3u8
 
@@ -241,9 +244,9 @@ https://doofootball.livestream-cdn.com/iptv/uk-premiersports.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-de.png" group-title="VIP Sports",SKYSPORT 1
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/cd7e6c7aa1547c0.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-de.png" group-title="VIP Sports",SKYSPORT 2
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/f74da5ab69db0c1.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="VIP Sports",Eleven Sport1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" group-title="VIP Sports",Eleven Sport2
