@@ -297,10 +297,12 @@ http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/107/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png" group-title="Live Stream",SkyNet Sport6
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="Live Stream",ZML EPL LIVE1 1080P
-https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com/out/v1/ed125874bda74b149f21b4ed444d4f41/index1_1.m3u8
+https://dailyb0.s3.amazonaws.com/e1/1.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="Live Stream",ZML EPL LIVE1  720P 
-https://bucketdaily01.s3.eu-west-3.amazonaws.com/e1/1.m3u8
+https://akamai2-me.cdn.booyah.live/hls/113134/38879472.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="Live Stream",ZML EPL LIVE1  360P
+https://sg.mmfootballdirect.com/stream/n9Jw0n8iOkutVzJLhsva.m3u8
+
 https://media.publit.io/file/h_480/Premier-League-Intro-2007_2008-HD.mp4
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/la_liga_es.png" group-title="Live Stream",ZML Laliga Live1
