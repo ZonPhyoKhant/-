@@ -218,7 +218,7 @@ http://185.132.177.110:8080/COSMOTESport6HD/video.m3u8
 http://185.132.177.110:8080/COSMOTESport7HD/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_8_hd.png" group-title="VIP Sports",Cosmote Sport8
 http://185.132.177.110:8080/COSMOTESport8HD/video.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_9_hd.png" group-title="VIP Sports",Cosmote Sport9
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport.png" group-title="VIP Sports",Cosmote Sport9
 http://185.132.177.110:8080/COSMOTESport9HD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="VIP Sports",Premier League1 SD
