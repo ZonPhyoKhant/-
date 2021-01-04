@@ -202,7 +202,24 @@ https://vcdnjt.useetv.com/dass/15/champion1/chunklist_w2141102661_b894100_sleng_
 #EXTINF: -1 tvg-name="Champion TV 2" tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="VIP Sports",UCL TV2 
 https://vcdnjt.useetv.com/dass/15/champion2/chunklist_w670832473_b894100_sleng_4798.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_1_hd.png" group-title="VIP Sports",Cosmote Sport1
 http://185.132.177.110:8080/COSMOTESport1HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_2_hd.png" group-title="VIP Sports",Cosmote Sport2
+http://185.132.177.110:8080/COSMOTESport2HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_3_hd.png" group-title="VIP Sports",Cosmote Sport3
+http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_4_hd.png" group-title="VIP Sports",Cosmote Sport4
+http://185.132.177.110:8080/COSMOTESport4HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_5_hd.png" group-title="VIP Sports",Cosmote Sport5
+http://185.132.177.110:8080/COSMOTESport5HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_6_hd.png" group-title="VIP Sports",Cosmote Sport6
+http://185.132.177.110:8080/COSMOTESport6HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_7_hd.png" group-title="VIP Sports",Cosmote Sport7
+http://185.132.177.110:8080/COSMOTESport7HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_8_hd.png" group-title="VIP Sports",Cosmote Sport8
+http://185.132.177.110:8080/COSMOTESport8HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_9_hd.png" group-title="VIP Sports",Cosmote Sport9
+http://185.132.177.110:8080/COSMOTESport9HD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="VIP Sports",Premier League1 SD
 https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8
