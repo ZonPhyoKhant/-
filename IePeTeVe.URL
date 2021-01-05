@@ -164,7 +164,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
 #EXTINF:-1 tvg-id="C5P.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="Sports",CCTV-5+
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pp_tv_hd_th.png" group-title="Sports",PPTV_HD
-http://183.182.100.184/live/pptvthai/index.m3u8
+http://196.53.249.42:9981/stream/service/7dbeb1c2d0474b1b638b2084a8b13bce?ticket=7589B7C9942D1C89E64222F8B762B1444D8BB4CB
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_sports_us.png" group-title="Sports",UFC FIGHT
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2000/index.m3u
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_sports_us.png" group-title="Sports",FIGHT TIME
