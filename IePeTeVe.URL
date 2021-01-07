@@ -316,8 +316,8 @@ http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/531/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_planeta.png" group-title="VIP Sports",Match! Country
 http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/107/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png" group-title="Live Stream",SkyNet Sport HD
-http://196.53.249.42:9981/stream/service/99c00f0346648f88da9f368fab67d9e8?ticket=8127765E169E5AE21819F5AA650CB3BD78C6810E
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png" group-title="Live Stream",SkyNet Sport 6
+http://190.2.133.58:8080/TV0665?AuthInfo=8970b6f22a9780ae7df56b90dab6a4bee3b06ac86348fec92e2329e66a52ab609920ea6e619e1f8ea684e39891e7f2f68df7cb1b23a1bc526dc41ad1fd655867e2e18f229d17e982b1837283efa0fc885c3d10073e09b4d295e51c88bece06c9
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="Live Stream",ZML EPL LIVE1 1080P
 https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com/out/v1/274189efa4b9473da9ce5cc502551a01/index2_2.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="Live Stream",ZML EPL LIVE1  720P 
