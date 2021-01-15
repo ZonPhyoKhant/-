@@ -146,11 +146,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="Sports",WWE 2
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta_sports_eurasia.png" group-title="Sports",SANTANA SPORT1
-http://ott-cdn.ucom.am/s81/04.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta_sports_eurasia.png" group-title="Sports",SANTANA SPORT2
-http://ott-cdn.ucom.am/s82/04.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/chelsea_tv.png" group-title="Sports",ChelseaTV
 https://www.livedoomovies.com/02_ChelseaTV_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mutv.png" group-title="Sports",MUTV
