@@ -195,13 +195,13 @@ https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="VIP Sports",Premier League2 HD
 https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="Sports",ASTRO SUPERSPORTS 1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="VIP Sports",ASTRO SUPERSPORTS 1
 http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="Sports",ASTRO SUPERSPORTS 2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="VIP Sports",ASTRO SUPERSPORTS 2
 http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="Sports",ASTRO SUPERSPORTS 3 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="VIP Sports",ASTRO SUPERSPORTS 3 
 http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="Sports",ASTRO SUPERSPORTS 4 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="VIP Sports",ASTRO SUPERSPORTS 4 
 http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png" group-title="VIP Sports",SPORT TV1
@@ -256,9 +256,9 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" group-title="VIP Sports",Eleven Sport2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta_sports_eurasia.png" group-title="Sports",SANTANA SPORT 1HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta_sports_eurasia.png" group-title="VIP Sports",SANTANA SPORT 1HD
 http://spacetv.in/stream/DIPK8H19CP8/234.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta_sports_eurasia.png" group-title="Sports",SANTANA SPORT 2HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta_sports_eurasia.png" group-title="VIP Sports",SANTANA SPORT 2HD
 http://spacetv.in/stream/DIPK8H19CP8/235.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/POLSAT_SPORT_PREMIUM_1_SUPER_HD.jpg" group-title="VIP Sports",Sport Premium1
