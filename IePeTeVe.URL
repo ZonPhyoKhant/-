@@ -98,7 +98,7 @@ https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa3
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbcsn-us.png" group-title="Sports",NBCSN HD
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/diema_sport_bg_2_hd.png" group-title="Sports",DIEMA SPORT2
-http://136.243.177.164/DIEMASPORT2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta-sports-ukraine-ie-ua.png" group-title="Sports",Setanta Sports HD
 http://spacetv.in/stream/DIPK8H19CP8/313.m3u8
 #EXTINF:-1 tvg-logo="http://ifavorite.ru/images/sport7/-5.jpg" group-title="Sports",Belarus 5
@@ -205,7 +205,7 @@ http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
 http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png" group-title="VIP Sports",SPORT TV1
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sporttv1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_2.png" group-title="VIP Sports",SPORT TV2
 https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_3.png" group-title="VIP Sports",SPORT TV3
@@ -272,13 +272,13 @@ http://185.47.188.226/live/tring_sport1/playlist.m3u8
 http://185.47.188.226/live/tring_sport2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport1_ro.png" group-title="VIP Sports",DIGI SPORT1
-
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport1romania/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport2_ro.png" group-title="VIP Sports",DIGI SPORT2
-
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport2romania/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport3_ro.png" group-title="VIP Sports",DIGI SPORT3
-
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport3romania/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport4_ro.png" group-title="VIP Sports",DIGI SPORT4
-
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport4romania/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_futbol_1.png" group-title="VIP Sports",Match! Football 1SD
 http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/124/index.m3u8
