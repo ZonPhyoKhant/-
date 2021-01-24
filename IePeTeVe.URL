@@ -309,8 +309,8 @@ http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/528/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_planeta.png" group-title="VIP Sports",Match! Country
 http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/107/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png" group-title="Live Stream",SkyNet Sport 3
-https://media.publit.io/file/SkyNet-Sport3.mp4
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png" group-title="Live Stream",SkyNet Sport 6
+https://media.publit.io/file/SkyNet-Sport6.mp4
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="Live Stream",ZML EPL LIVE1 1080P
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/bf89e1f7399c48c599edc6fe5294db4b/index1_3.m3u8
