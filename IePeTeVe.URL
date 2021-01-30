@@ -233,7 +233,7 @@ https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_sport_1.png" group-title="VIP Sports",CANAL+SPORT 1
 http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_sport_2.png" group-title="VIP Sports",CANAL+SPORT 2
-http://hypnotic-hosting.net:8080/darren/Test123/209329
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier-sports-1-ie.png" group-title="VIP Sports",PREMIER SPORT1
 
@@ -267,18 +267,18 @@ http://spacetv.in/stream/DIPK8H19CP8/235.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.tring.al/manager/includes/picker/images/sport1-hd.png" group-title="VIP Sports",TRING SPORT1
-http://185.47.188.226/live/tring_sport1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.tring.al/manager/includes/picker/images/sport2-hd.png" group-title="VIP Sports",TRING SPORT2
-http://185.47.188.226/live/tring_sport2/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport1_ro.png" group-title="VIP Sports",DIGI SPORT1
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport1romania/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport2_ro.png" group-title="VIP Sports",DIGI SPORT2
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport2romania/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport3_ro.png" group-title="VIP Sports",DIGI SPORT3
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport3romania/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport4_ro.png" group-title="VIP Sports",DIGI SPORT4
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport4romania/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_futbol_1.png" group-title="VIP Sports",Match! Football 1SD
 http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/124/index.m3u8
@@ -331,25 +331,25 @@ https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_02_hk.png" group-title="BeinSport",BeinSport2
 https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_03_hd.png" group-title="BeinSport",BeinSport3
-http://hypnotic-hosting.net:8080/live/darren/Test123/1089247.m3u8
+http://93.190.139.35:8278/streams/d/bee3hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_04_hd.png" group-title="BeinSport",BeinSport4
-http://hypnotic-hosting.net:8080/live/darren/Test123/1089248.m3u8
+http://93.190.139.35:8278/streams/d/bee4hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_05_hd.png" group-title="BeinSport",BeinSport5
-http://hypnotic-hosting.net:8080/live/darren/Test123/1089249.m3u8
+http://93.190.139.35:8278/streams/d/bee5hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_06_hd.png" group-title="BeinSport",BeinSport6
-http://hypnotic-hosting.net:8080/live/darren/Test123/1089250.m3u8
+http://93.190.139.35:8278/streams/d/bee6hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_07_hd.png" group-title="BeinSport",BeinSport7
-http://hypnotic-hosting.net:8080/live/darren/Test123/1089251.m3u8
+http://93.190.139.35:8278/streams/d/bee7hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_08_hd.png" group-title="BeinSport",BeinSport8
-http://hypnotic-hosting.net:8080/live/darren/Test123/1089252.m3u8
+http://93.190.139.35:8278/streams/d/bee8hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_09_hd.png" group-title="BeinSport",BeinSport9
-http://hypnotic-hosting.net:8080/live/darren/Test123/1089253.m3u8
+http://93.190.139.35:8278/streams/d/bee9hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_10_hd.png" group-title="BeinSport",BeinSport10
-http://hypnotic-hosting.net:8080/live/darren/Test123/1089254.m3u8
+http://93.190.139.35:8278/streams/d/bee10hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_11_hd.png" group-title="BeinSport",BeinSport11
-http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6132/index.m3u8
+http://93.190.139.35:8278/streams/d/bee11hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_12_hd.png" group-title="BeinSport",BeinSport12
-http://hypnotic-hosting.net:8080/live/darren/Test123/1089255.m3u8
+http://93.190.139.35:8278/streams/d/bee12hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="CARTOON",Cartoon Network
 https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
