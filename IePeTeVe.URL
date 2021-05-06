@@ -157,6 +157,21 @@ http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTI1AMs.jpg" group-title="Sports",Real Madrid TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?@amarnettv.live?sd=10&rebase=on
 
+#EXTINF:-1 tvg-logo="http://mutv.tk/images/SkyNetSports1.png" group-title="VIP Sports",SKYNET SPORT1
+https://sport.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://mutv.tk/images/SkyNetSports2.png" group-title="VIP Sports",SKYNET SPORT2
+https://sport.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://mutv.tk/images/SkyNetSports3.png" group-title="VIP Sports",SKYNET SPORT3
+https://sport.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://mutv.tk/images/SkyNetSports4.png" group-title="VIP Sports",SKYNET SPORT4
+https://sport.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://mutv.tk/images/SkyNetSports5.png" group-title="VIP Sports",SKYNET SPORT5
+https://sport.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://mutv.tk/images/SkyNetSports6.png" group-title="VIP Sports",SKYNET SPORT6
+https://sport.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://mutv.tk/images/SkynetSportHD.png" group-title="VIP Sports",SKYNET SPORT HD
+https://sport.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="VIP Sports",BEIN SP LaLiga
 https://vcdnjt.useetv.com/dass/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein2_big1.png" group-title="VIP Sports",BEIN SP Serie A
