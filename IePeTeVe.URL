@@ -317,11 +317,11 @@ http://spacetv.in/stream/DIPK8H19CP8/193.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_tv.png" group-title="VIP Sports",Match! TV
 http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/535/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_igra.png" group-title="VIP Sports",Match! Game
-http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/529/index.m3u8
+http://94.230.240.12:8080/sport2/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_arena.png" group-title="VIP Sports",Match! Arena
-http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/528/index.m3u8
+http://94.230.240.12:8080/sport1/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_planeta.png" group-title="VIP Sports",Match! Country
-http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/107/index.m3u8
+http://94.230.240.12:8080/sportplus/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hk.png" group-title="BeinSport",BeinSport1
